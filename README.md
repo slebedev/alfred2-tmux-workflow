@@ -1,0 +1,1 @@
+Simple alfred 2 workflow for managing tmux
